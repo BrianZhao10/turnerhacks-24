@@ -1,6 +1,6 @@
 import roboflow
 
-rf = roboflow.Roboflow(api_key='JKkwgi82Fw5soWd1eyfg')
+rf = roboflow.Roboflow(api_key='revoked_regenerated_removed')
 
 project = rf.workspace().project("trash-collection-wsdcl")
 model = project.version("2").model
